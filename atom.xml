@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Lamb-e.github.io</id>
+    <title>-e&apos;s blog</title>
+    <updated>2022-11-17T10:50:50.288Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Lamb-e.github.io"/>
+    <link rel="self" href="https://Lamb-e.github.io/atom.xml"/>
+    <subtitle>-e的学习笔记</subtitle>
+    <logo>https://Lamb-e.github.io/images/avatar.png</logo>
+    <icon>https://Lamb-e.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, -e&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[今天做了一件好烂的事情]]></title>
+        <id>https://Lamb-e.github.io/post/jin-tian-zuo-liao-yi-jian-hao-lan-de-shi-qing/</id>
+        <link href="https://Lamb-e.github.io/post/jin-tian-zuo-liao-yi-jian-hao-lan-de-shi-qing/">
+        </link>
+        <updated>2022-11-17T10:46:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息经济学2 概述]]></title>
+        <id>https://Lamb-e.github.io/post/xin-xi-jing-ji-xue-2-gai-shu/</id>
+        <link href="https://Lamb-e.github.io/post/xin-xi-jing-ji-xue-2-gai-shu/">
+        </link>
+        <updated>2022-09-22T08:30:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息经济学1 开场白]]></title>
+        <id>https://Lamb-e.github.io/post/xin-xi-jing-ji-xue-1-kai-chang-bai/</id>
+        <link href="https://Lamb-e.github.io/post/xin-xi-jing-ji-xue-1-kai-chang-bai/">
+        </link>
+        <updated>2022-09-22T07:47:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>月饼馅料是去年的 --&gt;食品安全问题？为什么消费者这么担心？--&gt;息息相关？</p>
+<ul>
+<li>对产品的质量买卖双方掌握的信息是不一样的   <strong>信息不对称</strong></li>
+</ul>
+<p>为什么要把月饼的保质期写那么短？<br>
+- 防止别人觉得你加了防腐剂（短 不一定没加）       令人相信的一种信号</p>
+<p>漏油事件：扇贝         不可验证性</p>
+<p>政府事件不公开             相对的进行比较  什么情况下相对绩效的考核是有道理的？</p>
+<p>机制设计：分蛋糕     只要信息不对称 不管什么机制都会有损失</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>月饼馅料是去年的 --&gt;食品安全问题？为什么消费者这么担心？--&gt;息息相关？</p>
+<ul>
+<li>对产品的质量买卖双方掌握的信息是不一样的   <strong>信息不对称</strong></li>
+</ul>
+<p>为什么要把月饼的保质期写那么短？<br>
+- 防止别人觉得你加了防腐剂（短 不一定没加）       令人相信的一种信号</p>
+<p>漏油事件：扇贝         不可验证性</p>
+<p>政府事件不公开             相对的进行比较  什么情况下相对绩效的考核是有道理的？</p>
+<p>机制设计：分蛋糕     只要信息不对称 不管什么机制都会有损失</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山海经美学]]></title>
+        <id>https://Lamb-e.github.io/post/shan-hai-jing-mei-xue/</id>
+        <link href="https://Lamb-e.github.io/post/shan-hai-jing-mei-xue/">
+        </link>
+        <updated>2022-09-22T03:28:37.000Z</updated>
+        <summary type="html"><![CDATA[<p><em><strong>美的标准从来都不是一成不变的，它也不曾有绝对标准的概念。</strong></em><br>
+在古希腊，人们更崇拜健壮的身躯而不是高尚的品德。歌德曾说过，“美是一种本原现象，事物的构造符合它的目的才显得美。”原始思维中，这种合目的性得到凸显，人对于事物是否是美的认识更加直接、粗放。</p>
+<p>***对生存的渴望是人的本质属性。***先民恶劣的生存环境迫使他们希望自己变得更强，甚至希望拥有猛兽的牙齿和利爪、更敏锐的嗅觉和视力;希望像鸟类的一样能够飞翔、像鱼类的一样能潜游于水底。所以他们把拥有这些能力的动物当作崇拜的对象，然后将它们的特质糅合在一起造出神的形象。把自己的形象也融入对神的幻想之中，于是形成了《山海经》中西王母豹尾虎齿又其状如人的神奇组合。</p>
+<p>***狰狞恐怖本身也是一种美的类型。***饕餮纹“有首无身，食人未咽”，它有一双巨大的眼睛，怒目圆睁，它给人的那种紧张、压抑、刺激、恐惧的感觉是与优美、轻松感相反的一种审美体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><em><strong>美的标准从来都不是一成不变的，它也不曾有绝对标准的概念。</strong></em><br>
+在古希腊，人们更崇拜健壮的身躯而不是高尚的品德。歌德曾说过，“美是一种本原现象，事物的构造符合它的目的才显得美。”原始思维中，这种合目的性得到凸显，人对于事物是否是美的认识更加直接、粗放。</p>
+<p>***对生存的渴望是人的本质属性。***先民恶劣的生存环境迫使他们希望自己变得更强，甚至希望拥有猛兽的牙齿和利爪、更敏锐的嗅觉和视力;希望像鸟类的一样能够飞翔、像鱼类的一样能潜游于水底。所以他们把拥有这些能力的动物当作崇拜的对象，然后将它们的特质糅合在一起造出神的形象。把自己的形象也融入对神的幻想之中，于是形成了《山海经》中西王母豹尾虎齿又其状如人的神奇组合。</p>
+<p>***狰狞恐怖本身也是一种美的类型。***饕餮纹“有首无身，食人未咽”，它有一双巨大的眼睛，怒目圆睁，它给人的那种紧张、压抑、刺激、恐惧的感觉是与优美、轻松感相反的一种审美体验。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[环境安装]]></title>
+        <id>https://Lamb-e.github.io/post/huan-jing-an-zhuang/</id>
+        <link href="https://Lamb-e.github.io/post/huan-jing-an-zhuang/">
+        </link>
+        <updated>2022-09-22T01:22:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Lamb-e.github.io/post/about/</id>
+        <link href="https://Lamb-e.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Everyone]]></title>
+        <id>https://Lamb-e.github.io/post/hello-gridea/</id>
+        <link href="https://Lamb-e.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎来到**-e's blog**<br>
+✍️  这里将记录我的生活、心情、知识、笔记等等等等</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎来到**-e's blog**<br>
+✍️  这里将记录我的生活、心情、知识、笔记等等等等</p>
+]]></content>
+    </entry>
+</feed>
